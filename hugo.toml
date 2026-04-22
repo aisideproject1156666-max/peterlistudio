@@ -1,0 +1,4 @@
+baseURL = 'https://peterlistudio.com/'
+locale = 'zh-tw'
+title = '李彼德工作室'
+theme = "PaperMod"
